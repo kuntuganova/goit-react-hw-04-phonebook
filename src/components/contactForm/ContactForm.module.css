@@ -1,0 +1,27 @@
+.form {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    border-radius: 5px;
+}
+
+.title {
+    margin-top: 0;
+    margin-bottom: 10px;
+}
+
+.input {
+    margin-bottom: 15px;
+    height: 20px;
+    border: none;
+    border-radius: 5px;
+}
+
+.btn {
+    height: 31px;
+    width: 100%;
+    border: none;
+    border-radius: 5px;
+    color: rgb(237, 232, 232);
+    background-color:cadetblue;
+}

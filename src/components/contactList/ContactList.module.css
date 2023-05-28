@@ -1,0 +1,25 @@
+.ul {
+    list-style: none;
+    width: 350px;
+    padding: 10px;
+}
+
+.li {
+    display: flex;
+    justify-self: space-between;
+    align-items: center;
+}
+
+.p {
+    margin-left: 25px;
+}
+
+.btn {
+    margin-left: 35px; 
+    height: 20px;
+    width: 70px;
+    border: none;
+    border-radius: 5px;
+    color: rgb(237, 232, 232);
+    background-color:cadetblue;
+}
