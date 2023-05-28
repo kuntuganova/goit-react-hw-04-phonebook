@@ -1,7 +1,7 @@
 import React from 'react';
 import PropTypes from 'prop-types';
 import css from './ContactList.module.css';
-import Contact from 'components/contact/Contact';
+import Contact from 'components/Contact/Contact';
 
 const ContactList = ({ contacts, deleteContact }) => {
   return (
